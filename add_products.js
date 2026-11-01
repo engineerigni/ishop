@@ -24,14 +24,17 @@ const all50Products = [
   { name: "Jerrycan 20Ltr Yellow", price: 25000, stock_qty: 40, description: "Heavy duty for water & fuel", category: "Storage" },
   { name: "Jerrycan 10Ltr", price: 15000, stock_qty: 35, description: "Portable 10L jerrycan", category: "Storage" },
   { name: "Jerrycan 5Ltr", price: 10000, stock_qty: 50, description: "Small home jerrycan", category: "Storage" },
-  { name: "UN Oil Drums 200L BLUE", price: 120000, stock_qty: 10, description: "UN standard oil storage drum", category: "Storage" },
+  { name: "UN Oil Drums 200L Metallic", price: 120000, stock_qty: 10, description: "UN standard oil storage drum", category: "Storage" },
   { name: "Water Drum 100L Plastic", price: 65000, stock_qty: 12, description: "Plastic water storage drum", category: "Storage" },
   { name: "Bucket 20L Plastic", price: 12000, stock_qty: 40, description: "Strong plastic bucket", category: "Storage" },
   
   // FARM TOOLS
   { name: "Hoes - Original Uganda", price: 25000, stock_qty: 40, description: "Digging hoes for farming", category: "Farm Tools" },
   { name: "Pangas - Sharp Quality", price: 20000, stock_qty: 45, description: "Original panga for clearing", category: "Farm Tools" },
-  
+  { name: "Slashers", price: 15000, stock_qty: 30, description: "Grass slasher with handle", category: "Farm Tools" },
+  { name: "Rakes", price: 18000, stock_qty: 20, description: "Garden rake metallic", category: "Farm Tools" },
+  { name: "Spades", price: 22000, stock_qty: 25, description: "Building & garden spade", category: "Farm Tools" },
+  { name: "Fork Hoes (Jembe)", price: 35000, stock_qty: 15, description: "Fork jembe for digging", category: "Farm Tools" },
 
   // KITCHEN & COOKING
   { name: "Kitchen Knives Set 5pcs", price: 18000, stock_qty: 25, description: "Stainless steel knives", category: "Kitchen" },
@@ -41,7 +44,8 @@ const all50Products = [
   { name: "Saucepan Set 3pcs", price: 75000, stock_qty: 12, description: "Stainless saucepan set", category: "Kitchen" },
   { name: "Flask 2L Stainless", price: 45000, stock_qty: 20, description: "Hot water flask", category: "Kitchen" },
   { name: "Thermos Flask 1L", price: 25000, stock_qty: 25, description: "Small thermos for tea", category: "Kitchen" },
-  
+  { name: "Charcoal Stove (Sigiri)", price: 35000, stock_qty: 15, description: "Improved charcoal stove", category: "Kitchen" },
+  { name: "Gas Cylinder 6kg + Burner", price: 165000, stock_qty: 6, description: "Complete gas set for cooking", category: "Kitchen" },
   { name: "Serving Spoons Set", price: 15000, stock_qty: 30, description: "Big serving spoons 6pcs", category: "Kitchen" },
   { name: "Chapati Rolling Board", price: 12000, stock_qty: 20, description: "Wooden rolling board", category: "Kitchen" },
   
